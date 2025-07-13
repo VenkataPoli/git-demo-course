@@ -8,3 +8,5 @@ I am go getter
 git tag -> to display the version
 git tag -a v1.0.0 -m "versioning my first set of code" -> to versioning
 git push origin v1.0.0 -> to push the tag
+
+Create a branch using -b or --branch AAAAC3NzaC1lZDI1NTE5AAAAIDwqxh22zpd1IlUr0A7lvBoguWXkW0Dcikq
